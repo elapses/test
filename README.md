@@ -1,2 +1,2 @@
 # test
-项目自我描述：abcdefghigklmnoqrstuvwxyz
+项目描述
